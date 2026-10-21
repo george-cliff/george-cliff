@@ -1,4 +1,10 @@
-# Hi, I'm George 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.svg" />
+  <img src="assets/logo-light.svg" alt="George Cliff" width="300" />
+</picture>
+
+# Hi, and welcome! 👋
 
 <img src="output/bonsai.gif" alt="My Git Bonsai, grown from GitHub contributions" width="256" align="right" />
 
@@ -72,14 +78,9 @@
 [![Immich](https://img.shields.io/badge/Immich-4250AF?style=flat&logo=immich&logoColor=white)](https://immich.app/)
 [![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white)](https://nextcloud.com/)
 
-## 📊 Activity
-
-### Coding activity
-
-A snapshot of the languages and editors I've been using recently, tracked through [WakaTime](https://wakatime.com/).
+## 📊 Coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat-square)
 
 **I'm an Early 🐤** 
 
@@ -101,7 +102,6 @@ Saturday                 15 commits          ██░░░░░░░░░�
 Sunday                   65 commits          ███████░░░░░░░░░░░░░░░░░░   27.08 % 
 ```
 
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -117,20 +117,11 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-
 <!--END_SECTION:waka-->
-
-### GitHub activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gitglance-eight.vercel.app/api/combined?username=george-cliff&amp;style=minimal&amp;theme=dark&amp;langs_count=6&amp;width=800" />
-  <source media="(prefers-color-scheme: light)" srcset="https://gitglance-eight.vercel.app/api/combined?username=george-cliff&amp;style=minimal&amp;theme=light&amp;langs_count=6&amp;width=800" />
-  <img src="https://gitglance-eight.vercel.app/api/combined?username=george-cliff&amp;style=minimal&amp;theme=light&amp;langs_count=6&amp;width=800" alt="George's GitHub activity and repository language statistics" width="800" />
-</picture>
 
 ## ✍️ Latest writing
 
-I'm getting into the habit of writing about what I build and learn. It's still early days, so posts may be a bit sporadic for now.
+A mix of devlogs following my projects, shorter notes on things I've learnt about, the occasional article, and the odd post about my hobbies. I'm still getting into the habit of writing, so posts may be a bit sporadic for now.
 
 <!-- BLOG-POST-LIST:START -->
 *Posts will appear here once my RSS feed is available.*
