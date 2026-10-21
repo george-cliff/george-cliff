@@ -1,0 +1,26 @@
+
+name: Git Bonsai
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Git Bonsai
+        uses: egorthinks/git-bonsai@v1.0.0
+        with:
+          user: george-cliff
+          output-dir: output
+          commit: "true"
+          season: auto
