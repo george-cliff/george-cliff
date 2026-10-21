@@ -79,7 +79,45 @@
 A snapshot of the languages and editors I've been using recently, tracked through [WakaTime](https://wakatime.com/).
 
 <!--START_SECTION:waka-->
-*Coding statistics will appear here once WakaTime is connected and the workflow has run.*
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat-square)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                51 commits          █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+🌆 Daytime                111 commits         ████████████░░░░░░░░░░░░░   46.25 % 
+🌃 Evening                75 commits          ████████░░░░░░░░░░░░░░░░░   31.25 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Tuesday                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Wednesday                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Thursday                 26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Friday                   77 commits          ████████░░░░░░░░░░░░░░░░░   32.08 % 
+Saturday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Sunday                   65 commits          ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
 <!--END_SECTION:waka-->
 
 ### GitHub activity
