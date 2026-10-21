@@ -1,0 +1,36 @@
+name: WakaTime coding stats
+
+on:
+  schedule:
+    - cron: '45 4 * * *' # UTC; avoids overlapping with Bonsai and blog workflows
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update coding activity
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          PUSH_TOKEN: ${{ github.token }}
+          BADGE_STYLE: 'flat-square'
+          SHOW_TOTAL_CODE_TIME: 'True'
+          SHOW_LANGUAGE: 'True'
+          SHOW_EDITORS: 'True'
+          SHOW_OS: 'False'
+          SHOW_PROJECTS: 'False'
+          SHOW_TIMEZONE: 'False'
+          SHOW_COMMIT: 'False'
+          SHOW_DAYS_OF_WEEK: 'False'
+          SHOW_LANGUAGE_PER_REPO: 'False'
+          SHOW_LOC_CHART: 'False'
+          SHOW_PROFILE_VIEWS: 'False'
+          SHOW_SHORT_INFO: 'False'
+          SHOW_UPDATED_DATE: 'False'
+          SHOW_AI_CODE_TIME: 'False'
+          SHOW_AI_CODING: 'False'
