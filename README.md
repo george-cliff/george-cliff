@@ -81,32 +81,19 @@
 ## 📊 Coding stats
 
 <!--START_SECTION:waka-->
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                51 commits          █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-🌆 Daytime                111 commits         ████████████░░░░░░░░░░░░░   46.25 % 
-🌃 Evening                75 commits          ████████░░░░░░░░░░░░░░░░░   31.25 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+🌞 Morning                51 commits          █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+🌆 Daytime                111 commits         ███████████░░░░░░░░░░░░░░   45.68 % 
+🌃 Evening                78 commits          ████████░░░░░░░░░░░░░░░░░   32.10 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
-📅 **I'm Most Productive on Friday** 
 
-```text
-Monday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Tuesday                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Wednesday                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Thursday                 26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Friday                   77 commits          ████████░░░░░░░░░░░░░░░░░   32.08 % 
-Saturday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Sunday                   65 commits          ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-```
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Europe/London
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -116,6 +103,18 @@ No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
 ```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   5 repos             ████████████████░░░░░░░░░   62.50 % 
+TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Rust                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
+
+
+
 
 <!--END_SECTION:waka-->
 
