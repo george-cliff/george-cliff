@@ -84,10 +84,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                51 commits          █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-🌆 Daytime                111 commits         ███████████░░░░░░░░░░░░░░   45.68 % 
-🌃 Evening                78 commits          ████████░░░░░░░░░░░░░░░░░   32.10 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+🌞 Morning                60 commits          █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+🌆 Daytime                153 commits         ████████████░░░░░░░░░░░░░   48.42 % 
+🌃 Evening                100 commits         ████████░░░░░░░░░░░░░░░░░   31.65 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 
 
@@ -95,13 +95,21 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 4 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+Astro                    4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+Other                    1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+YAML                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Python                   1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vscodium                 9 hrs 3 mins        █████████████░░░░░░░░░░░░   52.16 % 
+Claude Code              5 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   31.27 % 
+VS Code                  1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Firefox                  1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  17 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
