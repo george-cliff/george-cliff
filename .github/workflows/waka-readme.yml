@@ -2,7 +2,7 @@ name: WakaTime coding stats
 
 on:
   schedule:
-    - cron: '45 4 * * *' # UTC; avoids overlapping with the Bonsai workflow
+    - cron: '30 3 * * *' # UTC; 15 mins after the GitHub stats workflow
   workflow_dispatch:
 
 permissions:
@@ -67,6 +67,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m 'Updated with Dev Metrics'
+            git commit -m 'chore: stack up the coding hours 🚀'
             git push
           fi
