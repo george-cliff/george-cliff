@@ -16,21 +16,21 @@ _Updated daily from WakaTime and GitHub · [back to profile](README.md)_
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   34.47 % 
-Markdown                 8 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-Python                   2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-YAML                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Bash                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Other                    13 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   36.51 % 
+Markdown                 10 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+Python                   3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Bash                     2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+YAML                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   40.92 % 
-Firefox                  10 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   35.08 % 
-Vscodium                 4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-VS Code                  2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Codex Vscode             56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Claude Code              15 hrs 23 mins      ███████████░░░░░░░░░░░░░░   43.02 % 
+Firefox                  13 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   36.75 % 
+Vscodium                 4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+VS Code                  2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Codex Vscode             56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 💻 Operating System: 
-Windows                  29 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  35 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
