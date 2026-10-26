@@ -3,7 +3,7 @@ name: Git Bonsai
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: '0 3 * * *'
   workflow_dispatch:
 
 permissions:
@@ -17,10 +17,32 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Git Bonsai
-        uses: egorthinks/git-bonsai@v1.0.0
+      # Pin the generator so the tree and its calculations only change when
+      # deliberately upgraded. One metrics snapshot feeds the README and site.
+      - name: Checkout Git Bonsai
+        uses: actions/checkout@v4
         with:
-          user: george-cliff
-          output-dir: output
-          commit: "true"
-          season: auto
+          repository: egorthinks/git-bonsai
+          ref: 665258cab3f304cfb33a96fc7bf108cec1f452f3 # v1.0.0
+          path: .git-bonsai-source
+          persist-credentials: false
+
+      - name: Generate Git Bonsai and statistics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BONSAI_USER: george-cliff
+          BONSAI_SOURCE_REF: v1.0.0
+        run: node .github/scripts/generate_bonsai.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name 'git-bonsai[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add output/bonsai.svg output/bonsai.png output/bonsai.gif output/bonsai-growth.gif output/bonsai-data.json
+          if git diff --cached --quiet; then
+            echo "Bonsai unchanged — nothing to commit"
+          else
+            git commit -m 'chore: tend the bonsai 🌳'
+            git pull --rebase
+            git push
+          fi
