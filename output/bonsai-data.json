@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T08:29:44.220Z",
+  "generatedAt": "2026-10-27T16:11:56.639Z",
   "source": {
     "repository": "egorthinks/git-bonsai",
-    "ref": "v1.0.0",
-    "commit": "665258cab3f304cfb33a96fc7bf108cec1f452f3"
+    "ref": "main",
+    "commit": "bec04c39f62731fdb28c3b82322ef21cbf3bdfac"
   },
   "season": "autumn",
   "metrics": {
     "username": "george-cliff",
     "createdAt": "2023-03-24T18:23:17Z",
     "fetchedAt": "2026-10-27",
-    "totalContributions": 44,
+    "totalContributions": 49,
     "topLanguages": [
       {
         "name": "Python",
@@ -32,11 +32,11 @@
         "lang": "Python"
       }
     ],
-    "currentStreak": 1,
+    "currentStreak": 2,
     "maxStreak": 5,
     "longestGapDays": 877,
     "gapsOver60d": 3,
-    "weekendRatio": 0.20454545454545456,
+    "weekendRatio": 0.1836734693877551,
     "potWeeks": [
       0,
       0,
@@ -92,8 +92,8 @@
       3
     ],
     "weeklyCv": 7.492776402325874,
-    "burstiness": 0.9772727272727273,
-    "repoCount": 3,
+    "burstiness": 0.8775510204081632,
+    "repoCount": 4,
     "topRepoShare": 1,
     "flagshipCount": 1,
     "isOrg": false
@@ -105,9 +105,9 @@
     "lean": -0.37436309787444766,
     "iterations": 4,
     "trunkLen": 35.40536988838446,
-    "baseRadius": 3.996708241949669,
-    "branchChance": 0.25407726424904514,
-    "foliage": 0.5770112546084154,
+    "baseRadius": 4.012723363645905,
+    "branchChance": 0.2560600888400077,
+    "foliage": 0.5831122533498386,
     "palettes": [
       "Python",
       "Python",
