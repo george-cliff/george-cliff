@@ -15,12 +15,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
 
       # Pin the generator so the tree and its calculations only change when
       # deliberately upgraded. One metrics snapshot feeds the README and site.
       - name: Checkout Git Bonsai
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
           repository: egorthinks/git-bonsai
           ref: bec04c39f62731fdb28c3b82322ef21cbf3bdfac
@@ -31,7 +31,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BONSAI_USER: george-cliff
-          BONSAI_SOURCE_REF: v1.0.0
+          BONSAI_SOURCE_REF: main
         run: node .github/scripts/generate_bonsai.mjs
 
       - name: Commit changes
