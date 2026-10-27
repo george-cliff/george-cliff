@@ -1,10 +1,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.svg" />
-  <img src="assets/logo-light.svg" alt="George Cliff" width="519" height="181" align="left" />
+  <img src="assets/logo-light.svg" alt="George Cliff" width="444" height="155" align="left" />
 </picture>
 
-<img src="output/bonsai.gif" alt="My Git Bonsai, grown from GitHub contributions" width="181" height="181" align="right" />
+<img src="output/bonsai.gif" alt="My Git Bonsai, grown from GitHub contributions" width="256" height="256" align="right" />
 
 <br clear="both" />
 
