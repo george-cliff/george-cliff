@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: egorthinks/git-bonsai
-          ref: 665258cab3f304cfb33a96fc7bf108cec1f452f3 # v1.0.0
+          ref: bec04c39f62731fdb28c3b82322ef21cbf3bdfac
           path: .git-bonsai-source
           persist-credentials: false
 
