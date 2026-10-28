@@ -1,6 +1,12 @@
+<img src="output/bonsai.gif" alt="My Git Bonsai, grown from GitHub contributions" align="right" width="175" />
+
+<br />
+<br />
+
 # Hi, I'm George 🐦‍⬛
 
-<img src="output/bonsai.gif" alt="My Git Bonsai, grown from GitHub contributions" align="right" width="125" />
+I'm a **second-year BEng Computer Science student** at Anglia Ruskin University in Cambridge, UK.
+
 
 I'm a **second-year BEng Computer Science student** at Anglia Ruskin University in Cambridge, UK. I enjoy learning how things work, especially computers, and understand them best by building things at university and through personal projects.
 
