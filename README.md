@@ -4,17 +4,15 @@
 
 # Hi, I'm George 🐦‍⬛
 
-I'm a **second-year BEng Computer Science student** at Anglia Ruskin University in Cambridge, UK.
+I'm a **second-year BEng Computer Science student** at Anglia Ruskin University in Cambridge, UK. I enjoy figuring out what makes things work, building projects to understand computers better, and seeing how far limited hardware can be pushed.
 
+**A few projects I'm currently working on:**
 
-I'm a **second-year BEng Computer Science student** at Anglia Ruskin University in Cambridge, UK. I enjoy learning how things work, especially computers, and understand them best by building things at university and through personal projects.
+- **[Triarch](https://github.com/george-cliff/triarch-compute-sim):** A RISC-V computer system emulation experiment using `C`, `C++`, `Rust`, `SystemVerilog`, and `Python`.
+- **[Murmur](https://github.com/george-cliff/murmur):** An offline bird-call monitor in `Python` and `Rust` with `PyTorch` and `ONNX`, using small machine-learning models designed for resource-constrained hardware.
+- **[Atlas](https://github.com/george-cliff/atlas-homelab):** A `Debian` home server made from salvaged PC parts, running self-hosted services in `Docker` containers with remote access through `Tailscale` and encrypted off-site backups.
 
-
-I'm particularly interested in **systems programming, computer architecture, and embedded computing**, currently I'm developing **[Triarch](https://github.com/george-cliff/triarch-compute-sim)**, a RISC-V computer system emulation experiment using `C`, `C++`, `Rust`, `SystemVerilog`, and `Python`, and **[Murmur](https://github.com/george-cliff/murmur)**, an offline bird-call monitor using lightweight machine learning. I also built and maintain **[Atlas](https://github.com/george-cliff/atlas-homelab)**, a Debian home server made from salvaged PC parts.
-
-I'm also starting to write deeper dives into my projects and university work on [my website](https://georgecliff.com).
-
-[**Website**](https://georgecliff.com) · [**CV**](https://georgecliff.com/files/george-cliff-cv.pdf) · [**LinkedIn**](https://linkedin.com/in/georgecliff) · [**Email**](mailto:gcliff@fastmail.com)
+I'm looking for a **year-long engineering placement for the 2027/28 academic year**, particularly in computer architecture, systems programming, or embedded software, and am keen to contribute to **open-source projects**. I want to put what I've been learning into practice and keep learning by building alongside experienced developers. [**My CV**](https://georgecliff.com/files/george-cliff-cv.pdf) covers my experience so far, and I'm starting project write-ups on [**my website**](https://georgecliff.com/). Feel free to connect with me on [**LinkedIn**](https://linkedin.com/in/georgecliff) or [**send me an email**](mailto:gcliff@fastmail.com). I'm always happy to chat!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/signature-dark.svg" />
