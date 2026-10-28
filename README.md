@@ -1,12 +1,8 @@
-<img src="output/bonsai.gif" alt="My Git Bonsai, grown from GitHub contributions" align="right"/>
-<br />
-<br />
-
 # Hi, I'm George 🐦‍⬛
-
+<img src="output/bonsai.gif" alt="My Git Bonsai, grown from GitHub contributions" align="right"/>
 I'm a **second-year BEng Computer Science student** at Anglia Ruskin University in Cambridge, UK. I enjoy figuring out what makes things work, building projects to understand computers better, and seeing how far limited hardware can be pushed.
 
-**A few projects I'm currently working on:**
+### A few projects I'm currently working on:
 
 - **[Triarch](https://github.com/george-cliff/triarch-compute-sim):** A RISC-V computer system emulation experiment using `C`, `C++`, `Rust`, `SystemVerilog`, and `Python`.
 - **[Murmur](https://github.com/george-cliff/murmur):** An offline bird-call monitor in `Python` and `Rust` with `PyTorch` and `ONNX`, using small machine-learning models designed for resource-constrained hardware.
