@@ -1,5 +1,5 @@
 <img src="output/bonsai.gif" alt="My Git Bonsai, grown from GitHub contributions" align="right"/>
-
+<br />
 <br />
 
 # Hi, I'm George 🐦‍⬛
