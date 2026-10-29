@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T09:07:46.496Z",
+  "generatedAt": "2026-10-29T09:05:54.254Z",
   "source": {
     "repository": "egorthinks/git-bonsai",
     "ref": "main",
@@ -10,12 +10,20 @@
   "metrics": {
     "username": "george-cliff",
     "createdAt": "2023-03-24T18:23:17Z",
-    "fetchedAt": "2026-10-28",
-    "totalContributions": 61,
+    "fetchedAt": "2026-10-29",
+    "totalContributions": 74,
     "topLanguages": [
       {
         "name": "Python",
-        "ratio": 1
+        "ratio": 0.6175115477335991
+      },
+      {
+        "name": "Rust",
+        "ratio": 0.27471552648199066
+      },
+      {
+        "name": "Jupyter Notebook",
+        "ratio": 0.10777292578441021
       }
     ],
     "epochLanguages": [
@@ -32,11 +40,11 @@
         "lang": "Python"
       }
     ],
-    "currentStreak": 3,
+    "currentStreak": 4,
     "maxStreak": 5,
     "longestGapDays": 877,
     "gapsOver60d": 3,
-    "weekendRatio": 0.14754098360655737,
+    "weekendRatio": 0.12162162162162163,
     "potWeeks": [
       0,
       0,
@@ -64,7 +72,7 @@
       0,
       0,
       0,
-      2,
+      3,
       3,
       0,
       0,
@@ -88,26 +96,26 @@
       0,
       0,
       0,
-      2,
-      3
+      3,
+      4
     ],
-    "weeklyCv": 7.492776402325874,
-    "burstiness": 0.7049180327868853,
-    "repoCount": 4,
-    "topRepoShare": 1,
+    "weeklyCv": 7.168686472528775,
+    "burstiness": 1,
+    "repoCount": 5,
+    "topRepoShare": 0.7393337924151938,
     "flagshipCount": 1,
     "isOrg": false
   },
   "dna": {
     "seedKey": "george-cliff",
-    "style": "windswept",
+    "style": "sekijoju",
     "species": "maple",
-    "lean": -0.37436309787444766,
+    "lean": -0.19783796501345935,
     "iterations": 4,
-    "trunkLen": 35.41221451535229,
-    "baseRadius": 4.046139639284309,
-    "branchChance": 0.2601083618637046,
-    "foliage": 0.5955684780381367,
+    "trunkLen": 35.41905914232012,
+    "baseRadius": 5.434390234638184,
+    "branchChance": 0.4056780154857752,
+    "foliage": 0.6065910878905962,
     "palettes": [
       "Python",
       "Python",
@@ -120,17 +128,17 @@
     "flowers": 0,
     "deadRatio": 0.28,
     "sumo": false,
-    "rootFlare": 2,
+    "rootFlare": 3,
     "shari": true,
     "uro": true,
     "trunks": [
       {
         "dx": 0,
         "scale": 1,
-        "lean": -0.37436309787444766
+        "lean": -0.19783796501345935
       }
     ],
-    "rock": false,
+    "rock": true,
     "sizeClass": "chuhin",
     "potScale": 0.86,
     "potWeeks": [
@@ -160,7 +168,7 @@
       0,
       0,
       0,
-      2,
+      3,
       3,
       0,
       0,
@@ -184,9 +192,9 @@
       0,
       0,
       0,
-      2,
-      3
+      3,
+      4
     ],
-    "ageYears": 3.5954382779425558
+    "ageYears": 3.598176128729688
   }
 }
