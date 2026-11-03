@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T10:17:03.773Z",
+  "generatedAt": "2026-11-03T10:17:56.515Z",
   "source": {
     "repository": "egorthinks/git-bonsai",
     "ref": "main",
@@ -10,7 +10,7 @@
   "metrics": {
     "username": "george-cliff",
     "createdAt": "2023-03-24T18:23:17Z",
-    "fetchedAt": "2026-11-02",
+    "fetchedAt": "2026-11-03",
     "totalContributions": 75,
     "topLanguages": [
       {
@@ -96,8 +96,8 @@
       0,
       0,
       0,
-      3,
-      4
+      4,
+      3
     ],
     "weeklyCv": 7.2185809624268344,
     "burstiness": 1,
@@ -112,8 +112,8 @@
     "species": "maple",
     "lean": -0.19783796501345935,
     "iterations": 4,
-    "trunkLen": 35.44643765019144,
-    "baseRadius": 5.440907645888412,
+    "trunkLen": 35.453282277159275,
+    "baseRadius": 5.441865893663907,
     "branchChance": 0.40606150407838126,
     "foliage": 0.6073580650758084,
     "palettes": [
@@ -192,9 +192,9 @@
       0,
       0,
       0,
-      3,
-      4
+      4,
+      3
     ],
-    "ageYears": 3.6091275318782166
+    "ageYears": 3.6118653826653486
   }
 }
