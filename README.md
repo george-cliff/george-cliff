@@ -12,6 +12,10 @@ I'm a **second-year BEng Computer Science student** at Anglia Ruskin University 
 
 - **[Atlas](https://github.com/george-cliff/atlas-homelab):** A Debian home server built from salvaged PC parts, running self-hosted services in Docker containers with remote access through Tailscale and encrypted off-site backups.
 
+> [!NOTE]
+> Due to a recent family bereavement, updates to my personal projects and website may be a little slower for a while, so I’ll be less active on GitHub than usual. Thanks for understanding.
+
+
 I'm looking for a **year-long engineering placement for the 2027/28 academic year**, particularly in computer architecture, systems programming, or embedded software. I'm also keen to contribute to **open-source projects**, so I can put what I've been learning into practice and continue learning alongside experienced developers.
 
 [**My CV**](https://georgecliff.com/files/george-cliff-cv.pdf) covers my experience so far, and I'm starting project write-ups on [**my website**](https://georgecliff.com/).
